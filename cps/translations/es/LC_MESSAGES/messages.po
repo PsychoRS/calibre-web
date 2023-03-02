@@ -5,6 +5,7 @@
 # victorhck <victorhck@mailbox.org>, 2018.
 # Angel Docampo <angel@docampo.net>, 2019.
 # Rafael A. Roa Hernández <rafaroah@me.com>, 2020.
+# PsychoRS <unhomen@gmail.com>, 2023
 msgid ""
 msgstr ""
 "Project-Id-Version:  Calibre-Web\n"
@@ -37,7 +38,7 @@ msgstr "El servidor se está apagando. Por favor, cierre la ventana"
 
 #: cps/admin.py:153
 msgid "Success! Database Reconnected"
-msgstr ""
+msgstr "¡Exito! Base de datos reconectada"
 
 #: cps/admin.py:156
 msgid "Unknown command"
@@ -326,19 +327,19 @@ msgstr "Actualizados los ajustes del servidor de correo electrónico"
 
 #: cps/admin.py:1341 cps/templates/admin.html:191
 msgid "Edit Scheduled Tasks Settings"
-msgstr ""
+msgstr "Editar ajustes de tareas programadas"
 
 #: cps/admin.py:1353
 msgid "Invalid start time for task specified"
-msgstr ""
+msgstr "Tiempo de inicio de tarea especificado inválido"
 
 #: cps/admin.py:1358
 msgid "Invalid duration for task specified"
-msgstr ""
+msgstr "Duración especificada para la tarea inválida"
 
 #: cps/admin.py:1367
 msgid "Scheduled tasks settings updated"
-msgstr ""
+msgstr "Ajustes para las tareas programadas actualizados"
 
 #: cps/admin.py:1377 cps/admin.py:1426 cps/admin.py:2017 cps/web.py:1263
 #: cps/web.py:1324
